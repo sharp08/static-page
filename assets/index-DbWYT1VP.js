@@ -1,1 +1,0 @@
-import{j as t}from"./index-5B7kD8Bp.js";function n(){return t.jsx(t.Fragment,{children:"NeedAdminAuthttt"})}export{n as default};
