@@ -1,1 +1,0 @@
-import{_ as t,d as n,c as e}from"./_plugin-vue_export-helper-BtKGkBlu.js";const c={__name:"BackToIndexButton",setup(a){function o(){window.location.href="/"}return(s,_)=>(n(),e("button",{class:"back-to-index-btn",onClick:o},"首页"))}},d=t(c,[["__scopeId","data-v-9be1efd2"]]);export{d as B};
